@@ -1,5 +1,5 @@
 # About Me:
-not a coder<br>
+không phải coder nhưng học code để code cái cần code mà coder không thèm code hoặc lười code nên tui phải code dùm coder<br>
 
 ## Contact me at:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bachogankteam)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https:/discord.com) 
@@ -12,4 +12,8 @@ not a coder<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noitinhyeubocdau&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Đôi điều về tôi
+> Tôi **"B4ch0"** là người:
+>> Có quá nhiều tham vọng trong cuộc sống nhưng thiếu đi sự may vá
 
